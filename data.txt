@@ -1,0 +1,214 @@
+TDS: 7.50, Temperature: 30, Turbidity: 1012, pH: -1.62, Water Quality Score: 38.24, Z-Score: -0.49, Anomalous: false, Cleanliness: true
+TDS: 9.36, Temperature: 30, Turbidity: 1012, pH: -1.61, Water Quality Score: 38.25, Z-Score: -0.45, Anomalous: true, Cleanliness: true
+TDS: 9.36, Temperature: 30, Turbidity: 1013, pH: -1.61, Water Quality Score: 38.25, Z-Score: -0.63, Anomalous: false, Cleanliness: true
+TDS: 9.36, Temperature: 30, Turbidity: 1012, pH: -1.62, Water Quality Score: 36.38, Z-Score: -0.63, Anomalous: false, Cleanliness: true
+TDS: 9.36, Temperature: 30, Turbidity: 1012, pH: -1.61, Water Quality Score: 38.25, Z-Score: -0.49, Anomalous: false, Cleanliness: true
+TDS: 9.36, Temperature: 30, Turbidity: 1012, pH: -1.59, Water Quality Score: 38.27, Z-Score: -0.49, Anomalous: false, Cleanliness: true
+TDS: 9.36, Temperature: 30, Turbidity: 1012, pH: -1.59, Water Quality Score: 38.26, Z-Score: -0.45, Anomalous: false, Cleanliness: true
+TDS: 9.36, Temperature: 30, Turbidity: 1012, pH: -1.61, Water Quality Score: 38.25, Z-Score: -0.45, Anomalous: false, Cleanliness: true
+TDS: 9.36, Temperature: 30, Turbidity: 1012, pH: -1.60, Water Quality Score: 38.26, Z-Score: -0.27, Anomalous: false, Cleanliness: true
+TDS: 7.50, Temperature: 30, Turbidity: 1012, pH: -1.61, Water Quality Score: 38.26, Z-Score: -0.27, Anomalous: false, Cleanliness: true
+TDS: 9.36, Temperature: 30, Turbidity: 1012, pH: -1.59, Water Quality Score: 38.27, Z-Score: -0.15, Anomalous: true, Cleanliness: true
+FAILED to get pH: not connected
+TDS: 9.36, Temperature: 30, Turbidity: 1013, Water Quality Score: 38.25, Z-Score: -0.27, Anomalous: true, Cleanliness: true
+TDS: 7.50, Temperature: 30, Turbidity: 1011, pH: -1.59, Water Quality Score: 38.27, Z-Score: 0.00, Anomalous: true, Cleanliness: true
+TDS: 9.36, Temperature: 30, Turbidity: 1011, pH: -1.59, Water Quality Score: 38.27, Z-Score: 0.08, Anomalous: false, Cleanliness: true
+TDS: 9.36, Temperature: 30, Turbidity: 1012, pH: -1.61, Water Quality Score: 38.25, Z-Score: 0.08, Anomalous: false, Cleanliness: true
+TDS: 9.36, Temperature: 30, Turbidity: 1011, pH: -1.59, Water Quality Score: 38.27, Z-Score: 0.18, Anomalous: false, Cleanliness: true
+TDS: 27.69, Temperature: 30, Turbidity: 1012, pH: -1.59, Water Quality Score: 56.35, Z-Score: 0.18, Anomalous: false, Cleanliness: true
+TDS: 28.20, Temperature: 29, Turbidity: 1012, pH: -1.61, Water Quality Score: 56.09, Z-Score: 0.18, Anomalous: false, Cleanliness: true
+TDS: 26.60, Temperature: 29, Turbidity: 1012, pH: 7.70, Water Quality Score: 63.05, Z-Score: 0.18, Anomalous: false, Cleanliness: true
+TDS: 28.73, Temperature: 28, Turbidity: 1012, pH: 9.99, Water Quality Score: 69.09, Z-Score: 0.18, Anomalous: false, Cleanliness: true
+TDS: 30.60, Temperature: 28, Turbidity: 1012, pH: 10.38, Water Quality Score: 63.58, Z-Score: 0.18, Anomalous: false, Cleanliness: true
+TDS: 25.20, Temperature: 28, Turbidity: 1012, pH: 9.73, Water Quality Score: 62.67, Z-Score: -3.59, Anomalous: true, Cleanliness: true
+TDS: 25.20, Temperature: 28, Turbidity: 1010, pH: 9.20, Water Quality Score: 62.40, Z-Score: -1.40, Anomalous: true, Cleanliness: true
+FAILED to get Cleanliness: not connected
+TDS: 25.20, Temperature: 28, Turbidity: 1015, pH: 9.22, Water Quality Score: 86.75, Z-Score: 2.46, Anomalous: true, 
+TDS: 141.66, Temperature: 28, Turbidity: 35, pH: 8.97, Water Quality Score: 193.46, Z-Score: -1.99, Anomalous: true, Cleanliness: true
+TDS: 167.91, Temperature: 28, Turbidity: 35, pH: 8.89, Water Quality Score: 209.57, Z-Score: 0.57, Anomalous: true, Cleanliness: true
+TDS: 172.79, Temperature: 28, Turbidity: 30, pH: 8.70, Water Quality Score: 209.49, Z-Score: -1.23, Anomalous: true, Cleanliness: true
+TDS: 182.60, Temperature: 27, Turbidity: 34, pH: 8.66, Water Quality Score: 212.69, Z-Score: 0.91, Anomalous: false, Cleanliness: true
+TDS: 174.41, Temperature: 27, Turbidity: 34, pH: 8.69, Water Quality Score: 213.89, Z-Score: -0.81, Anomalous: false, Cleanliness: true
+TDS: 190.55, Temperature: 27, Turbidity: 1015, pH: 8.85, Water Quality Score: 222.21, Z-Score: 1.37, Anomalous: true, Cleanliness: true
+TDS: 185.86, Temperature: 27, Turbidity: 1014, pH: 8.87, Water Quality Score: 223.76, Z-Score: 1.23, Anomalous: true, Cleanliness: true
+TDS: 187.49, Temperature: 28, Turbidity: 1013, pH: 8.82, Water Quality Score: 222.54, Z-Score: 1.11, Anomalous: true, Cleanliness: true
+TDS: 189.11, Temperature: 27, Turbidity: 1016, pH: 8.68, Water Quality Score: 225.30, Z-Score: 0.91, Anomalous: false, Cleanliness: true
+TDS: 141.66, Temperature: 28, Turbidity: 1012, pH: 9.50, Water Quality Score: 179.16, Z-Score: 0.81, Anomalous: true, Cleanliness: true
+TDS: 55.55, Temperature: 27, Turbidity: 1012, pH: 9.95, Water Quality Score: 93.00, Z-Score: 3.00, Anomalous: true, Cleanliness: true
+TDS: 70.16, Temperature: 27, Turbidity: 1017, pH: 9.69, Water Quality Score: 88.74, Z-Score: 2.00, Anomalous: true, Cleanliness: true
+FAILED to get pH: not connected
+TDS: 51.85, Temperature: 27, Turbidity: 1011, Water Quality Score: 85.13, Z-Score: 1.53, Anomalous: true, Cleanliness: true
+TDS: 48.14, Temperature: 27, Turbidity: 1011, pH: 9.54, Water Quality Score: 88.98, Z-Score: 1.22, Anomalous: true, Cleanliness: true
+TDS: 51.85, Temperature: 27, Turbidity: 1012, pH: 9.90, Water Quality Score: 91.10, Z-Score: 1.10, Anomalous: true, Cleanliness: true
+TDS: 75.57, Temperature: 27, Turbidity: 1012, pH: 9.61, Water Quality Score: 112.68, Z-Score: 0.90, Anomalous: false, Cleanliness: true
+TDS: 70.16, Temperature: 27, Turbidity: 1012, pH: 9.29, Water Quality Score: 116.00, Z-Score: 0.81, Anomalous: false, Cleanliness: true
+TDS: 79.15, Temperature: 27, Turbidity: 1012, pH: 9.51, Water Quality Score: 110.78, Z-Score: 0.66, Anomalous: false, Cleanliness: true
+TDS: 62.89, Temperature: 27, Turbidity: 1016, pH: 9.51, Water Quality Score: 112.58, Z-Score: 0.58, Anomalous: false, Cleanliness: true
+TDS: 70.16, Temperature: 27, Turbidity: 1014, pH: 9.86, Water Quality Score: 107.52, Z-Score: 0.50, Anomalous: false, Cleanliness: true
+TDS: 70.16, Temperature: 27, Turbidity: 1012, pH: 9.24, Water Quality Score: 106.90, Z-Score: 0.34, Anomalous: false, Cleanliness: true
+TDS: 70.16, Temperature: 27, Turbidity: 1014, pH: 9.16, Water Quality Score: 108.62, Z-Score: 0.23, Anomalous: false, Cleanliness: true
+TDS: 70.16, Temperature: 27, Turbidity: 1014, pH: 9.08, Water Quality Score: 106.74, Z-Score: 0.59, Anomalous: false, Cleanliness: true
+TDS: 118.21, Temperature: 28, Turbidity: 1014, pH: 8.85, Water Quality Score: 131.05, Z-Score: 0.53, Anomalous: false, Cleanliness: true
+TDS: 94.20, Temperature: 28, Turbidity: 1014, pH: 9.19, Water Quality Score: 133.12, Z-Score: 0.73, Anomalous: false, Cleanliness: true
+FAILED to get Cleanliness: not connected
+TDS: 99.40, Temperature: 28, Turbidity: 1012, pH: 9.64, Water Quality Score: 127.94, Z-Score: -0.65, Anomalous: false, 
+TDS: 92.46, Temperature: 28, Turbidity: 1012, pH: 9.21, Water Quality Score: 131.33, Z-Score: -0.69, Anomalous: false, Cleanliness: true
+TDS: 94.20, Temperature: 28, Turbidity: 1016, pH: 9.08, Water Quality Score: 133.02, Z-Score: 1.92, Anomalous: true, Cleanliness: true
+TDS: 94.20, Temperature: 28, Turbidity: 1014, pH: 9.01, Water Quality Score: 131.21, Z-Score: -0.25, Anomalous: false, Cleanliness: true
+TDS: 95.94, Temperature: 28, Turbidity: 1013, pH: 8.72, Water Quality Score: 132.66, Z-Score: 0.40, Anomalous: false, Cleanliness: true
+TDS: 95.94, Temperature: 28, Turbidity: 1013, pH: 8.72, Water Quality Score: 132.66, Z-Score: -0.43, Anomalous: false, Cleanliness: true
+TDS: 94.20, Temperature: 28, Turbidity: 1013, pH: 8.68, Water Quality Score: 132.61, Z-Score: -0.43, Anomalous: false, Cleanliness: true
+TDS: 95.94, Temperature: 28, Turbidity: 1013, pH: 8.66, Water Quality Score: 132.60, Z-Score: -0.35, Anomalous: false, Cleanliness: true
+TDS: 95.94, Temperature: 28, Turbidity: 1013, pH: 8.64, Water Quality Score: 132.58, Z-Score: -0.31, Anomalous: false, Cleanliness: true
+TDS: 94.20, Temperature: 28, Turbidity: 1013, pH: 8.52, Water Quality Score: 130.72, Z-Score: -3.22, Anomalous: true, Cleanliness: true
+TDS: 90.72, Temperature: 28, Turbidity: 1012, pH: 8.86, Water Quality Score: 127.58, Z-Score: -0.78, Anomalous: false, Cleanliness: true
+TDS: 99.40, Temperature: 28, Turbidity: 1011, pH: 9.04, Water Quality Score: 136.44, Z-Score: -1.40, Anomalous: true, Cleanliness: true
+TDS: 95.94, Temperature: 28, Turbidity: 39, pH: 8.80, Water Quality Score: 129.26, Z-Score: -4.36, Anomalous: true, Cleanliness: true
+FAILED to get pH: not connected
+TDS: 87.22, Temperature: 28, Turbidity: 40, Water Quality Score: 128.43, Z-Score: 0.33, Anomalous: false, Cleanliness: true
+TDS: 92.46, Temperature: 28, Turbidity: 45, pH: 9.67, Water Quality Score: 130.13, Z-Score: -2.37, Anomalous: false, Cleanliness: true
+TDS: 95.94, Temperature: 28, Turbidity: 1011, pH: 9.78, Water Quality Score: 136.97, Z-Score: -2.01, Anomalous: true, Cleanliness: true
+TDS: 99.40, Temperature: 28, Turbidity: 38, pH: 9.34, Water Quality Score: 133.28, Z-Score: -1.73, Anomalous: true, Cleanliness: true
+TDS: 99.40, Temperature: 28, Turbidity: 43, pH: 9.10, Water Quality Score: 136.50, Z-Score: -1.52, Anomalous: true, Cleanliness: true
+TDS: 124.97, Temperature: 28, Turbidity: 58, pH: 8.62, Water Quality Score: 161.59, Z-Score: 0.74, Anomalous: false, Cleanliness: true
+TDS: 126.65, Temperature: 28, Turbidity: 1016, pH: 9.08, Water Quality Score: 163.72, Z-Score: -1.18, Anomalous: true, Cleanliness: true
+TDS: 128.32, Temperature: 28, Turbidity: 1012, pH: 8.88, Water Quality Score: 163.53, Z-Score: 0.82, Anomalous: false, Cleanliness: true
+TDS: 126.65, Temperature: 28, Turbidity: 1011, pH: 10.19, Water Quality Score: 166.52, Z-Score: 0.82, Anomalous: false, Cleanliness: true
+TDS: 126.65, Temperature: 28, Turbidity: 54, pH: 9.40, Water Quality Score: 164.05, Z-Score: -1.09, Anomalous: false, Cleanliness: true
+TDS: 124.97, Temperature: 28, Turbidity: 57, pH: 9.12, Water Quality Score: 163.65, Z-Score: -0.88, Anomalous: false, Cleanliness: true
+TDS: 126.65, Temperature: 28, Turbidity: 57, pH: 8.81, Water Quality Score: 163.46, Z-Score: -0.80, Anomalous: false, Cleanliness: true
+FAILED to get Cleanliness: not connected
+TDS: 126.65, Temperature: 28, Turbidity: 59, pH: 8.78, Water Quality Score: 163.42, Z-Score: -0.80, Anomalous: false, 
+TDS: 123.28, Temperature: 28, Turbidity: 57, pH: 8.67, Water Quality Score: 159.95, Z-Score: -0.72, Anomalous: false, Cleanliness: true
+TDS: 123.28, Temperature: 28, Turbidity: 58, pH: 8.69, Water Quality Score: 159.97, Z-Score: -0.63, Anomalous: false, Cleanliness: true
+TDS: 128.32, Temperature: 28, Turbidity: 67, pH: 9.41, Water Quality Score: 165.74, Z-Score: 1.53, Anomalous: true, Cleanliness: true
+TDS: 133.34, Temperature: 28, Turbidity: 1012, pH: 9.12, Water Quality Score: 165.45, Z-Score: -0.72, Anomalous: false, Cleanliness: true
+TDS: 135.01, Temperature: 28, Turbidity: 55, pH: 8.95, Water Quality Score: 171.96, Z-Score: -0.74, Anomalous: true, Cleanliness: true
+TDS: 128.32, Temperature: 28, Turbidity: 1018, pH: 8.81, Water Quality Score: 161.78, Z-Score: -0.74, Anomalous: false, Cleanliness: true
+TDS: 124.97, Temperature: 28, Turbidity: 56, pH: 8.79, Water Quality Score: 161.76, Z-Score: -0.66, Anomalous: true, Cleanliness: true
+TDS: 128.32, Temperature: 28, Turbidity: 1012, pH: 8.73, Water Quality Score: 165.05, Z-Score: 1.36, Anomalous: true, Cleanliness: true
+TDS: 128.32, Temperature: 28, Turbidity: 66, pH: 8.61, Water Quality Score: 164.94, Z-Score: -0.64, Anomalous: false, Cleanliness: true
+TDS: 124.97, Temperature: 28, Turbidity: 1017, pH: 8.71, Water Quality Score: 161.67, Z-Score: 1.36, Anomalous: true, Cleanliness: true
+TDS: 128.32, Temperature: 28, Turbidity: 1012, pH: 8.56, Water Quality Score: 164.89, Z-Score: -0.70, Anomalous: false, Cleanliness: true
+TDS: 128.32, Temperature: 28, Turbidity: 1011, pH: 8.61, Water Quality Score: 163.26, Z-Score: 1.22, Anomalous: true, Cleanliness: true
+FAILED to get pH: not connected
+TDS: 126.65, Temperature: 28, Turbidity: 61, Water Quality Score: 161.49, Z-Score: -0.82, Anomalous: false, Cleanliness: true
+TDS: 124.97, Temperature: 28, Turbidity: 1012, pH: 9.22, Water Quality Score: 165.54, Z-Score: 1.10, Anomalous: true, Cleanliness: true
+TDS: 130.00, Temperature: 28, Turbidity: 1012, pH: 9.40, Water Quality Score: 167.40, Z-Score: 1.00, Anomalous: false, Cleanliness: true
+TDS: 130.00, Temperature: 28, Turbidity: 1012, pH: 9.16, Water Quality Score: 165.68, Z-Score: -0.99, Anomalous: false, Cleanliness: true
+TDS: 128.32, Temperature: 28, Turbidity: 1011, pH: 9.10, Water Quality Score: 167.10, Z-Score: 1.00, Anomalous: false, Cleanliness: true
+TDS: 128.32, Temperature: 28, Turbidity: 1011, pH: 8.92, Water Quality Score: 165.25, Z-Score: 0.81, Anomalous: false, Cleanliness: true
+TDS: 128.32, Temperature: 28, Turbidity: 1011, pH: 8.87, Water Quality Score: 163.52, Z-Score: 0.81, Anomalous: false, Cleanliness: true
+¯¯¥`§»I,@ºxlx‡p$2§`˛Ë§Kc ≈Connecting to Wifi......
+Connected to WiFi
+IP: 192.168.205.45
+sign up ok
+TDS: 128.32, Temperature: 28, Turbidity: 1011, pH: 8.71, Water Quality Score: 165.04, Z-Score: 0.73, Anomalous: false, Cleanliness: true
+TDS: 128.32, Temperature: 28, Turbidity: 1011, pH: 8.74, Water Quality Score: 143.02, Z-Score: 4.36, Anomalous: true, Cleanliness: true
+TDS: 106.29, Temperature: 28, Turbidity: 47, pH: 8.56, Water Quality Score: 142.84, Z-Score: 3.04, Anomalous: true, Cleanliness: true
+TDS: 108.00, Temperature: 28, Turbidity: 48, pH: 8.55, Water Quality Score: 144.55, Z-Score: 4.35, Anomalous: true, Cleanliness: true
+TDS: 113.12, Temperature: 28, Turbidity: 1008, pH: 8.40, Water Quality Score: 159.68, Z-Score: 3.00, Anomalous: true, Cleanliness: true
+TDS: 123.28, Temperature: 28, Turbidity: 1011, pH: 8.46, Water Quality Score: 152.98, Z-Score: 2.38, Anomalous: true, Cleanliness: true
+TDS: 180.88, Temperature: 28, Turbidity: 1012, pH: 7.99, Water Quality Score: 216.87, Z-Score: 2.00, Anomalous: false, Cleanliness: true
+TDS: 163.03, Temperature: 28, Turbidity: 80, pH: 8.15, Water Quality Score: 197.54, Z-Score: -0.35, Anomalous: false, Cleanliness: true
+TDS: 161.40, Temperature: 28, Turbidity: 76, pH: 8.19, Water Quality Score: 195.95, Z-Score: -0.37, Anomalous: false, Cleanliness: true
+TDS: 156.49, Temperature: 28, Turbidity: 75, pH: 8.22, Water Quality Score: 176.40, Z-Score: -0.44, Anomalous: false, Cleanliness: true
+TDS: 140.00, Temperature: 28, Turbidity: 1012, pH: 8.53, Water Quality Score: 159.82, Z-Score: 1.73, Anomalous: true, Cleanliness: true
+TDS: 116.52, Temperature: 28, Turbidity: 1013, pH: 8.63, Water Quality Score: 153.15, Z-Score: 1.53, Anomalous: true, Cleanliness: true
+FAILED to get pH: not connected
+TDS: 123.28, Temperature: 28, Turbidity: 1012, Water Quality Score: 159.87, Z-Score: 1.22, Anomalous: true, Cleanliness: true
+TDS: 121.60, Temperature: 28, Turbidity: 1013, pH: 8.54, Water Quality Score: 159.82, Z-Score: 1.00, Anomalous: false, Cleanliness: true
+TDS: 123.28, Temperature: 28, Turbidity: 1012, pH: 8.51, Water Quality Score: 159.79, Z-Score: 0.90, Anomalous: false, Cleanliness: true
+TDS: 123.28, Temperature: 28, Turbidity: 1015, pH: 9.18, Water Quality Score: 162.14, Z-Score: 0.82, Anomalous: false, Cleanliness: true
+TDS: 123.28, Temperature: 28, Turbidity: 1009, pH: 9.24, Water Quality Score: 156.90, Z-Score: -1.39, Anomalous: true, Cleanliness: true
+TDS: 119.91, Temperature: 28, Turbidity: 57, pH: 8.86, Water Quality Score: 156.76, Z-Score: -1.39, Anomalous: true, Cleanliness: true
+TDS: 118.21, Temperature: 28, Turbidity: 56, pH: 8.83, Water Quality Score: 155.04, Z-Score: -1.25, Anomalous: true, Cleanliness: true
+TDS: 119.91, Temperature: 28, Turbidity: 57, pH: 8.65, Water Quality Score: 154.86, Z-Score: -1.02, Anomalous: true, Cleanliness: true
+TDS: 118.21, Temperature: 28, Turbidity: 56, pH: 8.60, Water Quality Score: 154.82, Z-Score: -0.91, Anomalous: false, Cleanliness: true
+TDS: 118.21, Temperature: 28, Turbidity: 57, pH: 8.53, Water Quality Score: 154.74, Z-Score: -0.91, Anomalous: false, Cleanliness: true
+TDS: 118.21, Temperature: 28, Turbidity: 57, pH: 8.41, Water Quality Score: 156.32, Z-Score: -0.91, Anomalous: false, Cleanliness: true
+TDS: 118.21, Temperature: 28, Turbidity: 57, pH: 8.46, Water Quality Score: 154.69, Z-Score: -0.90, Anomalous: false, Cleanliness: true
+FAILED to get Cleanliness: not connected
+TDS: 118.21, Temperature: 28, Turbidity: 56, pH: 8.43, Water Quality Score: 154.64, Z-Score: -0.73, Anomalous: false, 
+TDS: 118.21, Temperature: 28, Turbidity: 56, pH: 8.31, Water Quality Score: 154.53, Z-Score: -0.66, Anomalous: false, Cleanliness: true
+TDS: 118.21, Temperature: 28, Turbidity: 57, pH: 8.37, Water Quality Score: 152.89, Z-Score: -0.50, Anomalous: false, Cleanliness: true
+TDS: 116.52, Temperature: 28, Turbidity: 56, pH: 8.35, Water Quality Score: 154.56, Z-Score: -0.42, Anomalous: false, Cleanliness: true
+TDS: 118.21, Temperature: 28, Turbidity: 56, pH: 8.40, Water Quality Score: 154.61, Z-Score: -0.33, Anomalous: false, Cleanliness: true
+TDS: 118.21, Temperature: 28, Turbidity: 54, pH: 8.34, Water Quality Score: 149.44, Z-Score: -0.42, Anomalous: false, Cleanliness: true
+TDS: 113.12, Temperature: 28, Turbidity: 56, pH: 8.37, Water Quality Score: 154.58, Z-Score: -0.42, Anomalous: false, Cleanliness: true
+TDS: 118.21, Temperature: 28, Turbidity: 56, pH: 8.37, Water Quality Score: 154.58, Z-Score: -0.36, Anomalous: false, Cleanliness: true
+TDS: 116.52, Temperature: 28, Turbidity: 56, pH: 8.24, Water Quality Score: 152.76, Z-Score: -0.36, Anomalous: false, Cleanliness: true
+TDS: 118.21, Temperature: 28, Turbidity: 56, pH: 8.38, Water Quality Score: 152.84, Z-Score: -0.29, Anomalous: false, Cleanliness: true
+TDS: 116.52, Temperature: 28, Turbidity: 56, pH: 8.30, Water Quality Score: 154.51, Z-Score: -0.29, Anomalous: false, Cleanliness: true
+TDS: 118.21, Temperature: 28, Turbidity: 56, pH: 8.27, Water Quality Score: 154.48, Z-Score: -0.23, Anomalous: false, Cleanliness: true
+TDS: 116.52, Temperature: 28, Turbidity: 57, pH: 8.38, Water Quality Score: 152.89, Z-Score: -0.16, Anomalous: false, Cleanliness: true
+FAILED to get pH: not connected
+TDS: 118.21, Temperature: 28, Turbidity: 57, Water Quality Score: 154.52, Z-Score: -0.08, Anomalous: false, Cleanliness: true
+TDS: 118.21, Temperature: 28, Turbidity: 56, pH: 8.32, Water Quality Score: 154.53, Z-Score: -0.08, Anomalous: false, Cleanliness: true
+TDS: 118.21, Temperature: 28, Turbidity: 57, pH: 8.33, Water Quality Score: 152.85, Z-Score: 1.44, Anomalous: true, Cleanliness: true
+TDS: 118.21, Temperature: 28, Turbidity: 56, pH: 8.39, Water Quality Score: 154.60, Z-Score: -0.16, Anomalous: true, Cleanliness: true
+TDS: 118.21, Temperature: 28, Turbidity: 57, pH: 8.35, Water Quality Score: 152.87, Z-Score: -0.16, Anomalous: false, Cleanliness: true
+TDS: 116.52, Temperature: 28, Turbidity: 56, pH: 8.34, Water Quality Score: 154.56, Z-Score: -0.16, Anomalous: false, Cleanliness: true
+TDS: 118.21, Temperature: 28, Turbidity: 56, pH: 8.31, Water Quality Score: 152.83, Z-Score: -0.16, Anomalous: false, Cleanliness: true
+TDS: 118.21, Temperature: 28, Turbidity: 57, pH: 8.38, Water Quality Score: 154.56, Z-Score: -0.58, Anomalous: false, Cleanliness: true
+TDS: 118.21, Temperature: 28, Turbidity: 56, pH: 8.40, Water Quality Score: 158.00, Z-Score: -0.58, Anomalous: false, Cleanliness: true
+TDS: 116.52, Temperature: 28, Turbidity: 56, pH: 8.34, Water Quality Score: 152.86, Z-Score: -0.58, Anomalous: false, Cleanliness: true
+TDS: 118.21, Temperature: 28, Turbidity: 56, pH: 8.33, Water Quality Score: 154.54, Z-Score: -0.58, Anomalous: false, Cleanliness: true
+TDS: 116.52, Temperature: 28, Turbidity: 56, pH: 8.31, Water Quality Score: 154.62, Z-Score: 1.53, Anomalous: true, Cleanliness: true
+FAILED to get Cleanliness: not connected
+TDS: 118.21, Temperature: 28, Turbidity: 57, pH: 8.28, Water Quality Score: 154.49, Z-Score: 1.36, Anomalous: true, 
+TDS: 116.52, Temperature: 28, Turbidity: 51, pH: 8.35, Water Quality Score: 140.92, Z-Score: -4.04, Anomalous: true, Cleanliness: true
+TDS: 163.03, Temperature: 28, Turbidity: 71, pH: 8.03, Water Quality Score: 176.24, Z-Score: 2.64, Anomalous: true, Cleanliness: true
+2§llÏ( $§º¯¿4$nl¥4 :ÂA˛Kfh2®Z¸Connecting to Wifi......
+Connected to WiFi
+IP: 192.168.205.45
+sign up ok
+TDS: 138.69, Temperature: 28, Turbidity: 69, pH: 8.26, Water Quality Score: 175.45, Z-Score: 2.17, Anomalous: true, Cleanliness: true
+TDS: 138.69, Temperature: 28, Turbidity: 69, pH: 8.26, Water Quality Score: 175.45, Z-Score: 4.36, Anomalous: true, Cleanliness: true
+TDS: 80.18, Temperature: 28, Turbidity: 33, pH: 8.55, Water Quality Score: 111.40, Z-Score: 2.95, Anomalous: true, Cleanliness: true
+TDS: 74.86, Temperature: 28, Turbidity: 32, pH: 8.57, Water Quality Score: 111.43, Z-Score: 2.35, Anomalous: true, Cleanliness: true
+TDS: 74.86, Temperature: 28, Turbidity: 32, pH: 8.63, Water Quality Score: 111.49, Z-Score: 1.72, Anomalous: true, Cleanliness: true
+TDS: 74.86, Temperature: 28, Turbidity: 32, pH: 8.62, Water Quality Score: 111.45, Z-Score: 1.52, Anomalous: true, Cleanliness: true
+TDS: 74.86, Temperature: 28, Turbidity: 32, pH: 8.60, Water Quality Score: 111.45, Z-Score: 1.35, Anomalous: true, Cleanliness: true
+TDS: 74.86, Temperature: 28, Turbidity: 32, pH: 8.63, Water Quality Score: 111.49, Z-Score: 1.22, Anomalous: true, Cleanliness: true
+TDS: 74.86, Temperature: 28, Turbidity: 32, pH: 8.61, Water Quality Score: 111.44, Z-Score: 0.99, Anomalous: false, Cleanliness: true
+TDS: 74.86, Temperature: 28, Turbidity: 32, pH: 8.53, Water Quality Score: 113.16, Z-Score: 0.90, Anomalous: false, Cleanliness: true
+TDS: 76.63, Temperature: 28, Turbidity: 32, pH: 8.61, Water Quality Score: 111.46, Z-Score: 0.81, Anomalous: false, Cleanliness: true
+TDS: 74.86, Temperature: 28, Turbidity: 32, pH: 8.64, Water Quality Score: 111.49, Z-Score: 0.65, Anomalous: false, Cleanliness: true
+FAILED to get Water Quality Score: 
+TDS: 74.86, Temperature: 28, Turbidity: 32, pH: 8.61, Z-Score: 0.50, Anomalous: false, Cleanliness: true
+¥EoÕÈâHHtÏ4 >EKê¿$$†–.$ld‡§Connecting to Wifi......
+Connected to WiFi
+IP: 192.168.205.45
+sign up ok
+TDS: 74.86, Temperature: 28, Turbidity: 32, pH: 8.65, Water Quality Score: 111.51, Z-Score: 0.33, Anomalous: false, Cleanliness: true
+TDS: 74.86, Temperature: 28, Turbidity: 32, pH: 8.65, Water Quality Score: 111.51, Z-Score: 0.33, Anomalous: false, Cleanliness: true
+TDS: 74.86, Temperature: 28, Turbidity: 32, pH: 8.65, Water Quality Score: 111.51, Z-Score: 4.36, Anomalous: true, Cleanliness: true
+TDS: 74.86, Temperature: 28, Turbidity: 34, pH: 8.63, Water Quality Score: 111.40, Z-Score: 4.36, Anomalous: true, Cleanliness: true
+TDS: 74.16, Temperature: 28, Turbidity: 27, pH: 8.68, Water Quality Score: 109.75, Z-Score: -0.12, Anomalous: false, Cleanliness: false
+TDS: 74.86, Temperature: 28, Turbidity: 31, pH: 8.83, Water Quality Score: 111.68, Z-Score: -0.12, Anomalous: false, Cleanliness: true
+TDS: 74.86, Temperature: 28, Turbidity: 31, pH: 8.72, Water Quality Score: 111.58, Z-Score: -0.12, Anomalous: false, Cleanliness: true
+TDS: 74.86, Temperature: 28, Turbidity: 31, pH: 8.71, Water Quality Score: 132.04, Z-Score: -0.09, Anomalous: false, Cleanliness: true
+TDS: 95.04, Temperature: 28, Turbidity: 42, pH: 8.53, Water Quality Score: 132.07, Z-Score: -0.10, Anomalous: false, Cleanliness: true
+TDS: 95.04, Temperature: 28, Turbidity: 42, pH: 8.56, Water Quality Score: 132.50, Z-Score: -0.11, Anomalous: false, Cleanliness: true
+TDS: 95.04, Temperature: 28, Turbidity: 42, pH: 8.42, Water Quality Score: 131.96, Z-Score: -0.13, Anomalous: false, Cleanliness: true
+TDS: 95.04, Temperature: 28, Turbidity: 42, pH: 8.48, Water Quality Score: 132.02, Z-Score: -0.14, Anomalous: false, Cleanliness: true
+FAILED to get pH: not connected
+TDS: 95.04, Temperature: 28, Turbidity: 42, Water Quality Score: 132.03, Z-Score: -0.16, Anomalous: false, Cleanliness: true
+TDS: 95.04, Temperature: 28, Turbidity: 43, pH: 8.57, Water Quality Score: 130.39, Z-Score: -0.17, Anomalous: false, Cleanliness: true
+TDS: 95.04, Temperature: 28, Turbidity: 42, pH: 8.50, Water Quality Score: 132.04, Z-Score: -0.19, Anomalous: false, Cleanliness: true
+TDS: 95.04, Temperature: 28, Turbidity: 42, pH: 8.50, Water Quality Score: 132.04, Z-Score: -0.20, Anomalous: false, Cleanliness: true
+TDS: 95.04, Temperature: 28, Turbidity: 42, pH: 8.47, Water Quality Score: 132.01, Z-Score: -0.22, Anomalous: false, Cleanliness: true
+TDS: 95.04, Temperature: 28, Turbidity: 42, pH: 8.55, Water Quality Score: 132.01, Z-Score: 0.56, Anomalous: false, Cleanliness: true
+TDS: 95.04, Temperature: 28, Turbidity: 42, pH: 8.46, Water Quality Score: 132.00, Z-Score: 0.49, Anomalous: false, Cleanliness: true
+TDS: 95.04, Temperature: 28, Turbidity: 42, pH: 8.51, Water Quality Score: 132.05, Z-Score: 0.40, Anomalous: false, Cleanliness: true
+TDS: 95.04, Temperature: 28, Turbidity: 42, pH: 8.46, Water Quality Score: 132.00, Z-Score: 0.21, Anomalous: false, Cleanliness: true
+TDS: 95.04, Temperature: 28, Turbidity: 42, pH: 8.51, Water Quality Score: 132.01, Z-Score: -0.23, Anomalous: false, Cleanliness: true
+TDS: 95.04, Temperature: 28, Turbidity: 43, pH: 8.51, Water Quality Score: 132.05, Z-Score: 3.00, Anomalous: true, Cleanliness: true
+TDS: 95.04, Temperature: 28, Turbidity: 42, pH: 8.43, Water Quality Score: 131.97, Z-Score: -0.33, Anomalous: false, Cleanliness: true
+FAILED to get Cleanliness: not connected
+TDS: 95.04, Temperature: 28, Turbidity: 42, pH: 8.46, Water Quality Score: 132.11, Z-Score: -0.33, Anomalous: false, 
+TDS: 95.04, Temperature: 28, Turbidity: 42, pH: 8.51, Water Quality Score: 132.04, Z-Score: -0.33, Anomalous: false, Cleanliness: true
+TDS: 95.04, Temperature: 28, Turbidity: 42, pH: 8.53, Water Quality Score: 132.07, Z-Score: -0.33, Anomalous: false, Cleanliness: true
+TDS: 95.04, Temperature: 28, Turbidity: 42, pH: 8.53, Water Quality Score: 132.07, Z-Score: -0.33, Anomalous: false, Cleanliness: true
+TDS: 95.04, Temperature: 28, Turbidity: 42, pH: 8.53, Water Quality Score: 132.07, Z-Score: -0.33, Anomalous: false, Cleanliness: true
